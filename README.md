@@ -4,8 +4,8 @@
     <body>
         <h1 align="center">Hey   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>, I'm Piotr Szumański!</h1>
         <ul>
+            <li>☁️ <b>Cloud Enthusiast</b>, 🌐 <b> Web Developer </b></li>
             <li>💻 Proud member of <a href="https://wmsdev.pl"><b>WMS_DEV</b></a>, a <b>software development</b> student organization, where fulfills a role of <b>backend developer</b></li>
-            <li>🌐 <b>Web developer</b></li>
             <li>🏫 Student of <b>Applied Computer Science</b> at <b>Wroclaw University of Science and Technology</b></li>
             <li>📖 When not programming, probably reading books, exercising and/or enjoying nature </li>
         </ul>
@@ -14,6 +14,7 @@
         <div align="center">
             <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
