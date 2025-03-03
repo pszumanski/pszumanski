@@ -4,10 +4,13 @@
     <body>
         <h1 align="center">Hey   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>, I'm Piotr Szumański!</h1>
         <ul>
-            <li>☁️ <b>Cloud Enthusiast</b>, 🌐 <b> Web Developer </b></li>
-            <li>💻 Proud member of <a href="https://wmsdev.pl"><b>WMS_DEV</b></a>, a <b>software development</b> student organization, where fulfills a role of <b>backend developer</b></li>
+            <li>💻 <b>Junior Software Developer</b> at Motorola Solutions </li>
+            <li>☕ My main language is <b>Java</b>, though I also love <b>Kotlin</b>
+            <li>☁️ I also like <b>Cloud Services</b>, <b>Web developlment</b> and <b>Spring framework</b>
+            <li>💎 I try my best to provide high quality, clean and maintainable solutions</li>
+            <li>😎 Proud member of <a href="https://wmsdev.pl"><b>WMS_DEV</b></a>, a <b>software development</b> student organization, where I fulfill a role of <b>Java Developer</b></li>
             <li>🏫 Student of <b>Applied Computer Science</b> at <b>Warsaw University of Technology</b></li>
-            <li>📖 When not programming, probably reading books, exercising or enjoying nature </li>
+            <li>📖 I enjoy reading books, training at gym or chilling in nature </li>
         </ul>
         <hr>
         <h3 align="center">🛠️ Languages and Tools:</h3>
