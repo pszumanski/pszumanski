@@ -4,7 +4,7 @@
     <body>
         <h1 align="center">Hey   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>, I'm Piotr Szumański!</h1>
         <ul>
-            <li>💻 <b>Junior Software Developer</b> at Motorola Solutions </li>
+            <li>💻 <b>Software Engineer I</b> at Viator </li>
             <li>☕ My main language is <b>Java</b>, though I also love <b>Kotlin</b>
             <li>☁️ I also like <b>Cloud Services</b>, <b>Web developlment</b> and <b>Spring framework</b>
             <li>💎 I try my best to provide high quality, clean and maintainable solutions</li>
